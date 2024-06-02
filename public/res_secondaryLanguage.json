@@ -1,0 +1,78 @@
+{
+    "basic_info": {
+      "description_header": "こんにちわ",
+      "description": "👋 はじめまして、Mugunthan Saravananです。機械学習とAndroidアプリ開発愛好家で、強固な学術的背景と実践経験を有しています。新しい技術を迅速に習得し、現実世界の問題解決に適用する能力が実証されています。Pythonに熟練しており、Java、C、C++に関する実用的な知識を有しています。",
+      "section_name": {
+        "about": "私について",
+        "projects": "プロジェクト",
+        "skills": "Uスキル",
+        "experience": "経験"
+      }
+    },
+    "projects": [
+      {
+        "title": "Sales Forecasting",
+        "startDate": "2023",
+        "description": "The Sales Prediction Project is a web application that uses Angular, Flask, and Firebase to predict sales data. The web application is user-interactive, allowing users to input different sales data and see the predicted results. The predicted sales data is saved in Firebase, and it is visualized in graphs.",
+        "images": [
+          "images/portfolio/sales-forecasting/p1.jpg",
+          "images/portfolio/sales-forecasting/p2.jpg"
+        ],
+        "url": "https://github.com/MugunthanSaravanan/Sales-forecasting",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Sign Language to English",
+        "startDate": "2023",
+        "description": "The application should be able to translate sign language gestures into English text in real time, allowing for fluent and natural communication between sign language users and non-signers. Accuracy and fluency: The translation should be accurate and fluent, capturing the nuances of the sign language and conveying the intended meaning effectively.",
+        "images": [
+          "images/portfolio/sign-language/p1.jpg"
+        ],
+        "url": "https://github.com/MugunthanSaravanan",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Internshala",
+        "title": "Internshala Student Partner",
+        "years": "12.2022 - 12.2023",
+        "mainTech": [
+          "Communication"
+        ],
+        "technologies":[
+          "Marketing",
+          "Leadership"
+        ]
+      },
+      {
+        "company": "Knowledge Solutions India",
+        "title": "Machine Learning Intern",
+        "years": "07.2022 - 09.2022",
+        "mainTech": [
+          "Machine Learning"
+        ],
+        "technologies": [
+          "MachineLearning"
+        ]
+      }
+    ]
+  }
