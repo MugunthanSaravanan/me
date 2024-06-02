@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "こんにちわ",
-      "description": "👋 はじめまして、Mugunthan Saravananです。機械学習とAndroidアプリ開発愛好家で、強固な学術的背景と実践経験を有しています。新しい技術を迅速に習得し、現実世界の問題解決に適用する能力が実証されています。Pythonに熟練しており、Java、C、C++に関する実用的な知識を有しています。",
+      "description": "👋 はじめまして、Mugunthan Saravananです。機械学習とAndroidアプリ開発愛好家で、強固な学術的背景と実践経験を有しています。新しい技術を迅速に習得し、現実世界の問題解決に適用する能力が実証されています。Pythonに熟練しており、Java、C、C++に関する実用的な知識を有しています。<a href='https://drive.google.com/uc?export=download&id=1JEa16ZCX8e3R6HQaCZ7d0mzrOAYxOrfh' download='resume.pdf'>Download my resume</a>",
       "section_name": {
         "about": "私について",
         "projects": "プロジェクト",

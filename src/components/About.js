@@ -5,13 +5,16 @@ import reactIcon from "@iconify/icons-logos/react";
 
 class About extends Component {
   render() {
+    let profilepic, sectionName, hello, about;
+
     if (this.props.sharedBasicInfo) {
-      var profilepic = "images/" + this.props.sharedBasicInfo.image;
+      profilepic = "images/" + this.props.sharedBasicInfo.image;
     }
+
     if (this.props.resumeBasicInfo) {
-      var sectionName = this.props.resumeBasicInfo.section_name.about;
-      var hello = this.props.resumeBasicInfo.description_header;
-      var about = this.props.resumeBasicInfo.description;
+      sectionName = this.props.resumeBasicInfo.section_name.about;
+      hello = this.props.resumeBasicInfo.description_header;
+      about = this.props.resumeBasicInfo.description;
     }
 
     return (
@@ -75,7 +78,7 @@ class About extends Component {
                     <span className="wave">{hello} :) </span>
                     <br />
                     <br />
-                    {about}
+                    <span dangerouslySetInnerHTML={{ __html: about }} />
                   </div>
                 </div>
               </div>

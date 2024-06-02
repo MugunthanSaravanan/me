@@ -12,6 +12,21 @@
           "name": "instagram",
           "url": "https://www.instagram.com/mugunthan_saravanan",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "Email",
+          "url": "mailto:mailtomugunthans@gmail.com",
+          "class": "far fa-envelope"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/mugunthansaravanan",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Resume",
+          "url": "https://drive.google.com/file/d/1JEa16ZCX8e3R6HQaCZ7d0mzrOAYxOrfh/view",
+          "class": "fas fa-file"
         }
       ],
       "image": "myProfile.jpg"
