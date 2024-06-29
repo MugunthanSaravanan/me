@@ -59,6 +59,17 @@
   ],
   "experience": [
     {
+      "company": "Eagle Tech IT Solutions",
+      "title": "Junior Software Trainee ",
+      "years": "06.2024 - 07.2024",
+      "mainTech": [
+        "Full Stack Development"
+      ],
+      "technologies": [
+        "HTML","CSS","JavaScript","ReactJS","Angular","Firebase","MongoDB"
+      ]
+    },
+    {
       "company": "Internshala",
       "title": "Internshala Student Partner",
       "years": "12.2022 - 12.2023",
@@ -78,7 +89,7 @@
         "Machine Learning"
       ],
       "technologies": [
-        "MachineLearning"
+        "Machine Learning Libraries"
       ]
     }
   ]
