@@ -1,0 +1,131 @@
+{
+    "basic_info": {
+      "description_header": "こんにちわ",
+      "description": "👋 はじめまして、Mugunthan Saravananです。機械学習とAndroidアプリ開発愛好家で、強固な学術的背景と実践経験を有しています。新しい技術を迅速に習得し、現実世界の問題解決に適用する能力が実証されています。Pythonに熟練しており、Java、C、C++に関する実用的な知識を有しています。<a href='https://drive.google.com/uc?export=download&id=1JEa16ZCX8e3R6HQaCZ7d0mzrOAYxOrfh' download='resume.pdf'>Download my resume</a>",
+      "section_name": {
+        "about": "私について",
+        "projects": "プロジェクト",
+        "skills": "Uスキル",
+        "experience": "経験"
+      }
+    },
+    "projects": [
+      {
+        "title": "Sales Forecasting",
+        "startDate": "2023",
+        "description": "The Sales Prediction Project is a web application that uses Angular, Flask, and Firebase to predict sales data. The web application is user-interactive, allowing users to input different sales data and see the predicted results. The predicted sales data is saved in Firebase, and it is visualized in graphs.",
+        "images": [
+          "images/portfolio/sales-forecasting/p1.jpg",
+          "images/portfolio/sales-forecasting/p2.jpg"
+        ],
+        "url": "https://github.com/MugunthanSaravanan/Sales-forecasting",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Animal Monitor",
+        "startDate": "2024",
+        "description": "Wildlife monitoring and animal detection are essential for effective environmental management and conservation. Traditional methods for identifying animals, particularly in real-time, are often labor-intensive, error-prone, and inefficient. This project tackles these limitations by developing a robust, real-time animal detection system utilizing advanced machine learning techniques. By employing deep learning models like Convolutional Neural Networks (CNNs) and YOLO (Y ou Only Look Once), the system accurately detects and classifies multiple animal species in camera feeds with high precision. It can identify discrepancies between detected animal counts and user-defined expectations, triggering automatic alerts via Twilio’s SMS service for immediate action. Secure data storage on Firebase enables personalized monitoring and historical tracking, and advanced image preprocessing techniques enhance the system’s performance under variable environmental conditions such as lighting changes or background noise. Through this integration of deep learning, real-time alerting, and cloud-based data storage, the solution boosts the efficiency of wildlife monitoring, supports conservation efforts, and provides actionable insights for researchers and environmental agencies. Additionally, the system offers potential applications in preventing illegal poaching by enabling real-time surveillance and rapid response capabilities.",
+        "images": [
+        "images/portfolio/animal-monitor/Animal.jpg",
+          "images/portfolio/animal-monitor/table.jpg",
+          "images/portfolio/animal-monitor/aboutus.jpg"
+        ],
+        "url": "https://github.com/MugunthanSaravanan/Animal_Monitor",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Extension for automated meeting summary",
+        "startDate": "2024",
+        "description": "The application should provide real-time transcription and summarization of spoken or recorded content into accurate and concise English text. It should ensure that the transcription is precise, capturing the nuances of the speech, and the summary effectively conveys the key points, facilitating clear and efficient communication.",
+        "images": [
+          "images/portfolio/summary-extension/page.jpeg",
+          "images/portfolio/summary-extension/summary.jpeg",
+          "images/portfolio/summary-extension/newui.jpeg",
+          "images/portfolio/summary-extension/extension.jpeg"
+        ],
+        "url": "https://github.com/MugunthanSaravanan/Summary-extension",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Personal Finance Tracter",
+        "startDate": "2024",
+        "description": "Designed and implemented an Android application for comprehensive income, expense, and savings management.",
+        "images": [
+          "images/portfolio/spendee/1.jpg",
+          "images/portfolio/spendee/2.jpg",
+          "images/portfolio/spendee/3.jpg",
+          "images/portfolio/spendee/4.jpg"
+        ],
+        "url": "https://github.com/MugunthanSaravanan/Spendee",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android App"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Eagle Tech IT Solutions",
+        "title": "Junior Software Trainee ",
+        "years": "06.2024 - 07.2024",
+        "mainTech": [
+          "Full Stack Development"
+        ],
+        "technologies": [
+          "HTML","CSS","JavaScript","ReactJS","Angular","Firebase","MongoDB"
+        ]
+      },
+      {
+        "company": "Internshala",
+        "title": "Internshala Student Partner",
+        "years": "12.2022 - 12.2023",
+        "mainTech": [
+          "Communication"
+        ],
+        "technologies":[
+          "Marketing",
+          "Leadership"
+        ]
+      },
+      {
+        "company": "Knowledge Solutions India",
+        "title": "Machine Learning Intern",
+        "years": "07.2022 - 09.2022",
+        "mainTech": [
+          "Machine Learning"
+        ],
+        "technologies": [
+          "MachineLearning"
+        ]
+      }
+    ]
+  }

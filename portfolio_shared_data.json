@@ -1,0 +1,89 @@
+{
+    "basic_info": {
+      "name": "Mugunthan Saravanan",
+      "titles": ["Engineer","Developer", "Blogger", "Designer", "Freelancer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/MugunthanSaravanan",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mugunthan_saravanan",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "Email",
+          "url": "mailto:mailtomugunthans@gmail.com",
+          "class": "far fa-envelope"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/mugunthansaravanan",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Resume",
+          "url": "https://drive.google.com/file/d/1JEa16ZCX8e3R6HQaCZ7d0mzrOAYxOrfh/view",
+          "class": "fas fa-file"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "95"
+        },
+          
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "95"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "SQL",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
