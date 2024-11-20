@@ -1,0 +1,7 @@
+git checkout -b gh_pages
+
+git add .
+git commit -m "Initial commit to gh_pages branch"
+
+
+git push origin gh_pages

@@ -1,0 +1,35 @@
+/* GithubStats.scss */
+
+.github-stats-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+  }
+  
+  .github-stats-container h2 {
+    margin-bottom: 20px;
+    font-size: 24px; /* Increase the font size for the title */
+  }
+  
+  .github-stats-row {
+    display: flex; /* Use flexbox to arrange items horizontally */
+    justify-content: center; /* Center items horizontally */
+    gap: 20px; /* Add gap between items */
+  }
+  
+  .github-stats-item img {
+    max-width: 100%;
+  }
+  
+.github-stats-item {
+    position: relative;
+    transition: transform 0.3s ease;
+  }
+  
+  .pop-up-effect {
+    transform: scale(1.1); // Increase size on hover
+    z-index: 1;
+  }
