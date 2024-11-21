@@ -56,11 +56,11 @@
         "startDate": "2024",
         "description": "The application should provide real-time transcription and summarization of spoken or recorded content into accurate and concise English text. It should ensure that the transcription is precise, capturing the nuances of the speech, and the summary effectively conveys the key points, facilitating clear and efficient communication.",
         "images": [
-          "images/portfolio/summary-extension/page.jpg",
-          "images/portfolio/summary-extension/summary.jpg",
-          "images/portfolio/summary-extension/newui.jpg",
-          "images/portfolio/summary-extension/extension.jpg"
-        ],
+            "images/portfolio/summary/page.jpg",
+            "images/portfolio/summary/summary.jpg",
+            "images/portfolio/summary/newui.jpg",
+            "images/portfolio/summary/extension.jpg"
+          ],
         "url": "https://github.com/MugunthanSaravanan/Summary-extension",
         "technologies": [
           {
