@@ -34,6 +34,11 @@
     "skills": {
       "icons": [
         {
+          "name": "Android Application",
+          "class": "devicon-android-plain",
+          "level": "95"
+        }
+        {
           "name": "Java",
           "class": "devicon-java-plain",
           "level": "95"
@@ -48,7 +53,6 @@
           "class": "devicon-cplusplus-plain",
           "level": "95"
         },
-          
         {
           "name": "C",
           "class": "devicon-c-plain",
@@ -70,8 +74,8 @@
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "React",
+          "class": "devicon-react-original",
           "level": "90"
         },
         {
