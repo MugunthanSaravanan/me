@@ -49,6 +49,26 @@
           "level": "95"
         },
         {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "95"
+        },
+        {
+          "name": "Machine Learning",
+          "class": "devicon-jupyter-plain",
+          "level": "95"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "95"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "95"
+        },
+        {
           "name": "C++",
           "class": "devicon-cplusplus-plain",
           "level": "95"
